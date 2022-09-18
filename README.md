@@ -1,4 +1,4 @@
-AIRBNB
+WINDBNB
 
 ![a](https://user-images.githubusercontent.com/96586030/190922732-ad43754c-e8c9-47d2-aace-869dacefda98.png)
 
