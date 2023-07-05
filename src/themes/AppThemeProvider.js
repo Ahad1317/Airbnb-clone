@@ -1,6 +1,6 @@
 import React from 'react';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
-import { grey, pink } from '@mui/material/colors';
+import { grey, blue, pink } from '@mui/material/colors';
 
 const theme = createTheme({
     typography: {
@@ -12,7 +12,7 @@ const theme = createTheme({
     },
     palette: {
         primary: {
-            main: grey[700]
+            main: blue[100]
         },
         secondary: {
             main: pink[500]

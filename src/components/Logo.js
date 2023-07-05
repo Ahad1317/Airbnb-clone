@@ -11,7 +11,7 @@ const Logo = () => {
    <Box sx={flexCenter}>
     <FaAirbnb size={40} color={pink[500]}/>
     <Typography sx={{ ml:1,
-        color: theme => theme.palette.secondry.main,
+        color: theme => theme.palette.secondary.main,
         fontSize: '20px',
         fontWeight: 'bold'}}
     component="h3">
