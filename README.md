@@ -12,6 +12,26 @@ With a sleek interface built on React, CSS, and JavaScript, Windbnb offers a sea
 - **Responsive Design:** Enjoy a beautiful experience across all devices.
 - **User Profiles:** Create and customize your traveler or host profile.
 
+## How to run 🛠
+
+1. **Clone the Repo**
+   ```sh
+   git clone https://github.com/Ahad1317/Windbnb.git
+   cd Windbnb
+   
+2. **Install dependencies**
+   ```
+   npm install
+   ```
+
+3. **Run the development server**
+   ```
+   npm start
+   ```
+Navigate to http://localhost:3000 to see your application in action.
+
+<br>
+
 ## Screenshots 📸
 
 Here's a sneak peek at what Windbnb offers:
